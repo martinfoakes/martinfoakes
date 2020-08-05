@@ -1,5 +1,3 @@
-<img align='right' src='./e0db8690895407d039b94f75b6244035.gif' width='80"'>
-
 # Hi there, I'm Martin 👋
 
 <br>
