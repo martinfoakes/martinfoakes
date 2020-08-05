@@ -1,7 +1,7 @@
 # Hi there, I'm Martin 👋
 
-[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinfoakes&count_private=true&theme=vue&show_icons=true)](https://github.com/martinfoakes) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfoakes&layout=compact)](https://github.com/martinfoakes)
-
+[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinfoakes&count_private=true&theme=vue&show_icons=true)](https://github.com/martinfoakes) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfoakes&layout=compact)](https://github.com/martinfoakes)
+------------ | -------------
 <!--
 **martinfoakes/martinfoakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
