@@ -1,3 +1,5 @@
+<img align='right' src='https://raw.githubusercontent.com/martinfoakes/martinfoakes/master/octarun.gif' width='80"'>
+
 # Hi there, I'm Martin 👋
 
 <br>
