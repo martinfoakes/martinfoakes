@@ -1,4 +1,8 @@
+<img align='right' width='8%' src='./e0db8690895407d039b94f75b6244035.gif' width='200"'>
+
 # Hi there, I'm Martin 👋
+
+<br>
 
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinfoakes&count_private=true&theme=vue&show_icons=true)](https://github.com/martinfoakes) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfoakes&layout=compact)](https://github.com/martinfoakes)
 ------------ | -------------
